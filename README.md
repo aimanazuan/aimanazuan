@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Aiman Azuan Amin.
+- 👋 Hi, you can call me Aiman.
 - 👀 I’m interested in Computer Architecture, Hardware Security, and Memory Systems.
 
 <!---
